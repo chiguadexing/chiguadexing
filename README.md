@@ -1,4 +1,4 @@
-## 原此行，终抵群星 👋
+## 愿此行，终抵群星 👋
 
 <!--
 **chiguadexing/chiguadexing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
