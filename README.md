@@ -1,4 +1,5 @@
 ## 愿此行，终抵群星 👋
+<img width="255" height="255" alt="srjnc" src="https://github.com/user-attachments/assets/923a086b-4def-4a4e-8664-fa36c44c1150" />
 
 <!--
 **chiguadexing/chiguadexing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
